@@ -1,0 +1,51 @@
+facility_id,city,bed_count,teaching_hospital
+Hospital_1,Fresno,821,No
+Hospital_2,Sacramento,261,Yes
+Hospital_3,Los Angeles,577,No
+Hospital_4,Los Angeles,831,No
+Hospital_5,Fresno,932,Yes
+Hospital_6,Fresno,226,No
+Hospital_7,Sacramento,233,No
+Hospital_8,San Diego,526,No
+Hospital_9,San Francisco,296,Yes
+Hospital_10,San Diego,508,No
+Hospital_11,San Diego,266,No
+Hospital_12,Sacramento,658,No
+Hospital_13,San Francisco,629,No
+Hospital_14,San Francisco,709,No
+Hospital_15,Fresno,850,No
+Hospital_16,Sacramento,286,Yes
+Hospital_17,San Diego,772,No
+Hospital_18,Los Angeles,679,Yes
+Hospital_19,San Diego,663,No
+Hospital_20,Fresno,900,No
+Hospital_21,San Diego,464,No
+Hospital_22,San Francisco,314,Yes
+Hospital_23,Sacramento,247,No
+Hospital_24,Los Angeles,876,Yes
+Hospital_25,Sacramento,233,Yes
+Hospital_26,San Francisco,526,No
+Hospital_27,San Diego,669,No
+Hospital_28,San Diego,948,Yes
+Hospital_29,San Francisco,349,No
+Hospital_30,San Diego,975,No
+Hospital_31,Los Angeles,390,Yes
+Hospital_32,San Francisco,547,No
+Hospital_33,Sacramento,168,No
+Hospital_34,San Diego,565,Yes
+Hospital_35,Los Angeles,304,No
+Hospital_36,San Diego,306,No
+Hospital_37,Los Angeles,282,No
+Hospital_38,Sacramento,124,Yes
+Hospital_39,Fresno,890,No
+Hospital_40,San Francisco,564,Yes
+Hospital_41,Fresno,195,No
+Hospital_42,Fresno,686,No
+Hospital_43,Fresno,253,Yes
+Hospital_44,Sacramento,209,No
+Hospital_45,Sacramento,198,Yes
+Hospital_46,Los Angeles,730,Yes
+Hospital_47,Los Angeles,874,Yes
+Hospital_48,Sacramento,447,Yes
+Hospital_49,Los Angeles,720,No
+Hospital_50,Fresno,928,No
